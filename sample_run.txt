@@ -1,0 +1,454 @@
+
+C:\school\SP23\git>java WDist 5 1000 100 1
+Player 0 (800) vs Player 2 (1200)
+Player 1 (840) vs Player 0 (960)
+Player 2 (1000) vs Player 3 (1200)
+Player 3 (1400) vs Player 2 (800)
+Player 4 (840) vs Player 2 (960)
+This was round# 1
+Player 0 (768) vs Player 3 (1592)
+Player 1 (1008) vs Player 4 (672)
+Player 2 (768) vs Player 3 (1784)
+Player 3 (1937) vs Player 0 (615)
+Player 4 (795) vs Player 0 (492)
+This was round# 2
+Player 0 (394) vs Player 4 (893)
+Player 1 (1186) vs Player 4 (715)
+Player 2 (625) vs Player 4 (858)
+Player 3 (1700) vs Player 1 (1423)
+Player 4 (687) vs Player 1 (1594)
+This was round# 3
+Player 0 (316) vs Player 2 (703)
+Player 1 (1912) vs Player 3 (1382)
+Player 2 (843) vs Player 3 (1242)
+Player 3 (1179) vs Player 0 (379)
+Player 4 (612) vs Player 0 (454)
+This was round# 4
+Player 0 (544) vs Player 3 (1089)
+Player 1 (2129) vs Player 3 (872)
+Player 2 (1011) vs Player 1 (1961)
+Player 3 (764) vs Player 0 (652)
+Player 4 (734) vs Player 0 (530)
+This was round# 5
+Player 0 (424) vs Player 3 (870)
+Player 1 (2045) vs Player 0 (340)
+Player 2 (1213) vs Player 1 (1843)
+Player 3 (696) vs Player 1 (2017)
+Player 4 (880) vs Player 1 (1871)
+This was round# 6
+Player 0 (408) vs Player 3 (628)
+Player 1 (1746) vs Player 3 (753)
+Player 2 (1132) vs Player 0 (489)
+Player 3 (850) vs Player 0 (392)
+Player 4 (710) vs Player 3 (1020)
+This was round# 7
+Player 0 (470) vs Player 4 (632)
+Player 1 (1542) vs Player 3 (1224)
+Player 2 (1038) vs Player 0 (564)
+Player 3 (1112) vs Player 0 (676)
+Player 4 (758) vs Player 2 (912)
+This was round# 8
+Player 0 (541) vs Player 3 (1247)
+Player 1 (1650) vs Player 0 (433)
+Player 2 (1094) vs Player 3 (1065)
+Player 3 (1216) vs Player 4 (607)
+Player 4 (728) vs Player 2 (973)
+This was round# 9
+Player 0 (347) vs Player 3 (1302)
+Player 1 (1505) vs Player 4 (873)
+Player 2 (779) vs Player 1 (1699)
+Player 3 (1457) vs Player 2 (624)
+Player 4 (997) vs Player 2 (500)
+This was round# 10
+Player 0 (278) vs Player 2 (569)
+Player 1 (1812) vs Player 2 (456)
+Player 2 (401) vs Player 0 (333)
+Player 3 (1537) vs Player 2 (321)
+Player 4 (931) vs Player 0 (399)
+This was round# 11
+Player 0 (463) vs Player 2 (257)
+Player 1 (1761) vs Player 2 (308)
+Player 2 (369) vs Player 1 (1700)
+Player 3 (1230) vs Player 1 (2007)
+Player 4 (858) vs Player 2 (442)
+This was round# 12
+Player 0 (375) vs Player 2 (530)
+Player 1 (2082) vs Player 0 (300)
+Player 2 (636) vs Player 1 (1976)
+Player 3 (1170) vs Player 0 (360)
+Player 4 (930) vs Player 0 (288)
+This was round# 13
+Player 0 (231) vs Player 4 (987)
+Player 1 (1779) vs Player 4 (1184)
+Player 2 (509) vs Player 4 (1311)
+Player 3 (1216) vs Player 0 (185)
+Player 4 (1412) vs Player 2 (408)
+This was round# 14
+Player 0 (222) vs Player 2 (371)
+Player 1 (1823) vs Player 0 (178)
+Player 2 (336) vs Player 0 (213)
+Player 3 (1459) vs Player 1 (1580)
+Player 4 (1694) vs Player 3 (1177)
+This was round# 15
+Player 0 (255) vs Player 3 (1135)
+Player 1 (1264) vs Player 4 (2010)
+Player 2 (403) vs Player 3 (1068)
+Player 3 (1281) vs Player 1 (1051)
+Player 4 (2220) vs Player 1 (841)
+This was round# 16
+Player 0 (204) vs Player 3 (1332)
+Player 1 (761) vs Player 2 (483)
+Player 2 (579) vs Player 1 (665)
+Player 3 (1372) vs Player 0 (164)
+Player 4 (2105) vs Player 2 (694)
+This was round# 17
+Player 0 (196) vs Player 1 (633)
+Player 1 (507) vs Player 4 (2231)
+Player 2 (832) vs Player 3 (1234)
+Player 3 (1133) vs Player 1 (608)
+Player 4 (2397) vs Player 2 (666)
+This was round# 18
+Player 0 (235) vs Player 4 (2358)
+Player 1 (487) vs Player 2 (787)
+Player 2 (944) vs Player 3 (976)
+Player 3 (1171) vs Player 4 (2163)
+Player 4 (2116) vs Player 0 (282)
+This was round# 19
+Player 0 (338) vs Player 4 (2060)
+Player 1 (420) vs Player 0 (405)
+Player 2 (860) vs Player 1 (504)
+Player 3 (1252) vs Player 0 (324)
+Player 4 (1888) vs Player 2 (1032)
+This was round# 20
+Player 0 (260) vs Player 1 (568)
+Player 1 (455) vs Player 3 (1365)
+Player 2 (941) vs Player 1 (546)
+Player 3 (1092) vs Player 4 (2161)
+Player 4 (1943) vs Player 3 (1310)
+This was round# 21
+Player 0 (312) vs Player 2 (889)
+Player 1 (484) vs Player 0 (374)
+Player 2 (815) vs Player 0 (448)
+Player 3 (1214) vs Player 1 (580)
+Player 4 (2059) vs Player 1 (464)
+This was round# 22
+Player 0 (359) vs Player 2 (904)
+Player 1 (372) vs Player 2 (996)
+Player 2 (1195) vs Player 3 (1015)
+Player 3 (944) vs Player 0 (430)
+Player 4 (1871) vs Player 3 (1132)
+This was round# 23
+Player 0 (344) vs Player 4 (1957)
+Player 1 (298) vs Player 2 (1269)
+Player 2 (1522) vs Player 4 (1704)
+Player 3 (906) vs Player 4 (1930)
+Player 4 (1626) vs Player 2 (1826)
+This was round# 24
+Player 0 (412) vs Player 2 (1758)
+Player 1 (239) vs Player 2 (1817)
+Player 2 (1864) vs Player 1 (192)
+Player 3 (725) vs Player 4 (1807)
+Player 4 (1725) vs Player 0 (494)
+This was round# 25
+Player 0 (396) vs Player 2 (1962)
+Player 1 (154) vs Player 2 (2000)
+Player 2 (2145) vs Player 3 (580)
+Player 3 (550) vs Player 1 (184)
+Player 4 (1689) vs Player 1 (220)
+This was round# 26
+Player 0 (440) vs Player 1 (176)
+Player 1 (211) vs Player 4 (1654)
+Player 2 (2103) vs Player 1 (253)
+Player 3 (462) vs Player 0 (528)
+Player 4 (1759) vs Player 0 (423)
+This was round# 27
+Player 0 (339) vs Player 4 (1843)
+Player 1 (303) vs Player 3 (412)
+Player 2 (2471) vs Player 4 (1475)
+Player 3 (494) vs Player 4 (1393)
+Player 4 (1491) vs Player 3 (396)
+This was round# 28
+Player 0 (272) vs Player 4 (1558)
+Player 1 (243) vs Player 2 (2531)
+Player 2 (2452) vs Player 3 (475)
+Player 3 (570) vs Player 4 (1463)
+Player 4 (1517) vs Player 0 (218)
+This was round# 29
+Player 0 (261) vs Player 1 (200)
+Player 1 (240) vs Player 3 (530)
+Player 2 (2149) vs Player 4 (1820)
+Player 3 (636) vs Player 2 (2043)
+Player 4 (1868) vs Player 1 (192)
+This was round# 30
+Player 0 (209) vs Player 4 (1920)
+Player 1 (154) vs Player 0 (247)
+Player 2 (1994) vs Player 0 (296)
+Player 3 (763) vs Player 2 (1867)
+Player 4 (1979) vs Player 0 (237)
+This was round# 31
+Player 0 (190) vs Player 2 (1914)
+Player 1 (124) vs Player 0 (220)
+Player 2 (1938) vs Player 1 (100)
+Player 3 (807) vs Player 0 (176)
+Player 4 (1959) vs Player 1 (120)
+This was round# 32
+Player 0 (152) vs Player 1 (144)
+Player 1 (172) vs Player 4 (1931)
+Player 2 (2099) vs Player 3 (646)
+Player 3 (616) vs Player 0 (182)
+Player 4 (1967) vs Player 0 (146)
+This was round# 33
+Player 0 (175) vs Player 1 (143)
+Player 1 (115) vs Player 3 (644)
+Player 2 (1706) vs Player 4 (2360)
+Player 3 (667) vs Player 1 (92)
+Player 4 (2701) vs Player 2 (1365)
+This was round# 34
+Player 1 eliminated with balance 92
+Player 0 (140) vs Player 2 (702)
+Player 1 (1393) vs Player 0 (112)
+Player 2 (842) vs Player 3 (2561)
+Player 3 (2583) vs Player 0 (90)
+This was round# 35
+Player 0 eliminated with balance 90
+Player 0 (1225) vs Player 1 (1010)
+Player 1 (808) vs Player 0 (1427)
+Player 2 (2868) vs Player 0 (1142)
+This was round# 36
+Player 0 (914) vs Player 2 (3096)
+Player 1 (647) vs Player 0 (1075)
+Player 2 (3311) vs Player 0 (860)
+This was round# 37
+Player 0 (1032) vs Player 2 (3139)
+Player 1 (776) vs Player 2 (3010)
+Player 2 (3216) vs Player 0 (826)
+This was round# 38
+Player 0 (671) vs Player 1 (931)
+Player 1 (797) vs Player 0 (805)
+Player 2 (3055) vs Player 0 (966)
+This was round# 39
+Player 0 (1125) vs Player 1 (638)
+Player 1 (511) vs Player 2 (3182)
+Player 2 (3080) vs Player 1 (613)
+This was round# 40
+Player 0 (1003) vs Player 1 (735)
+Player 1 (882) vs Player 0 (856)
+Player 2 (3256) vs Player 1 (706)
+This was round# 41
+Player 0 (685) vs Player 2 (3427)
+Player 1 (569) vs Player 0 (822)
+Player 2 (3263) vs Player 0 (986)
+This was round# 42
+Player 0 (1183) vs Player 2 (3066)
+Player 1 (682) vs Player 0 (1070)
+Player 2 (2930) vs Player 1 (818)
+This was round# 43
+Player 0 (1284) vs Player 2 (2716)
+Player 1 (655) vs Player 0 (1447)
+Player 2 (3005) vs Player 0 (1158)
+This was round# 44
+Player 0 (1027) vs Player 1 (786)
+Player 1 (943) vs Player 2 (2848)
+Player 2 (2660) vs Player 1 (1131)
+This was round# 45
+Player 0 (1232) vs Player 1 (926)
+Player 1 (1111) vs Player 0 (1047)
+Player 2 (2869) vs Player 0 (838)
+This was round# 46
+Player 0 (1005) vs Player 1 (944)
+Player 1 (1132) vs Player 0 (817)
+Player 2 (2643) vs Player 1 (1358)
+This was round# 47
+Player 0 (980) vs Player 2 (2480)
+Player 1 (1087) vs Player 2 (2751)
+Player 2 (2555) vs Player 0 (1176)
+This was round# 48
+Player 0 (959) vs Player 1 (1304)
+Player 1 (1495) vs Player 0 (768)
+Player 2 (2256) vs Player 1 (1794)
+This was round# 49
+Player 0 (615) vs Player 2 (2409)
+Player 1 (2152) vs Player 2 (2051)
+Player 2 (1641) vs Player 1 (2562)
+This was round# 50
+Player 0 (738) vs Player 2 (1518)
+Player 1 (2415) vs Player 0 (885)
+Player 2 (1821) vs Player 1 (2112)
+This was round# 51
+Player 0 (1062) vs Player 1 (1935)
+Player 1 (1723) vs Player 0 (1274)
+Player 2 (2165) vs Player 1 (1379)
+This was round# 52
+Player 0 (1020) vs Player 1 (1633)
+Player 1 (1959) vs Player 2 (1839)
+Player 2 (1635) vs Player 0 (1224)
+This was round# 53
+Player 0 (980) vs Player 2 (1879)
+Player 1 (1763) vs Player 0 (1176)
+Player 2 (1644) vs Player 0 (1411)
+This was round# 54
+Player 0 (1129) vs Player 1 (2045)
+Player 1 (2373) vs Player 2 (1316)
+Player 2 (1091) vs Player 0 (1354)
+This was round# 55
+Player 0 (1084) vs Player 1 (2643)
+Player 1 (2425) vs Player 2 (1309)
+Player 2 (1048) vs Player 1 (2686)
+This was round# 56
+Player 0 (1300) vs Player 1 (2470)
+Player 1 (2210) vs Player 0 (1560)
+Player 2 (839) vs Player 1 (2419)
+This was round# 57
+Player 0 (1248) vs Player 1 (2731)
+Player 1 (2898) vs Player 2 (672)
+Player 2 (538) vs Player 1 (3032)
+This was round# 58
+Player 0 (1141) vs Player 2 (645)
+Player 1 (3260) vs Player 0 (913)
+Player 2 (774) vs Player 0 (784)
+This was round# 59
+Player 0 (630) vs Player 2 (928)
+Player 1 (3075) vs Player 2 (1113)
+Player 2 (987) vs Player 0 (756)
+This was round# 60
+Player 0 (907) vs Player 2 (836)
+Player 1 (2908) vs Player 2 (1003)
+Player 2 (803) vs Player 1 (3108)
+This was round# 61
+Player 0 (1088) vs Player 1 (2927)
+Player 1 (3144) vs Player 0 (871)
+Player 2 (643) vs Player 1 (3304)
+This was round# 62
+Player 0 (999) vs Player 2 (515)
+Player 1 (3503) vs Player 0 (800)
+Player 2 (618) vs Player 0 (697)
+This was round# 63
+Player 0 (820) vs Player 2 (495)
+Player 1 (3339) vs Player 0 (984)
+Player 2 (396) vs Player 0 (1083)
+This was round# 64
+Player 0 (1299) vs Player 1 (3123)
+Player 1 (2864) vs Player 0 (1558)
+Player 2 (317) vs Player 1 (2943)
+This was round# 65
+Player 0 (1869) vs Player 1 (2632)
+Player 1 (2259) vs Player 0 (2242)
+Player 2 (380) vs Player 0 (2179)
+This was round# 66
+Player 0 (2614) vs Player 1 (1824)
+Player 1 (1900) vs Player 2 (304)
+Player 2 (244) vs Player 0 (2674)
+This was round# 67
+Player 0 (3054) vs Player 1 (1520)
+Player 1 (1216) vs Player 0 (3358)
+Player 2 (196) vs Player 0 (3406)
+This was round# 68
+Player 0 (3445) vs Player 2 (157)
+Player 1 (973) vs Player 0 (3688)
+Player 2 (188) vs Player 0 (3657)
+This was round# 69
+Player 0 (3851) vs Player 1 (779)
+Player 1 (624) vs Player 0 (4006)
+Player 2 (151) vs Player 0 (4043)
+This was round# 70
+Player 0 (4013) vs Player 2 (181)
+Player 1 (588) vs Player 2 (217)
+Player 2 (174) vs Player 0 (4056)
+This was round# 71
+Player 0 (3939) vs Player 1 (705)
+Player 1 (846) vs Player 0 (3798)
+Player 2 (208) vs Player 1 (812)
+This was round# 72
+Player 0 (3757) vs Player 2 (249)
+Player 1 (861) vs Player 2 (200)
+Player 2 (160) vs Player 1 (901)
+This was round# 73
+Player 0 (3725) vs Player 2 (192)
+Player 1 (721) vs Player 0 (3905)
+Player 2 (154) vs Player 0 (3943)
+This was round# 74
+Player 0 (3913) vs Player 2 (184)
+Player 1 (685) vs Player 2 (220)
+Player 2 (176) vs Player 0 (3957)
+This was round# 75
+Player 0 (4094) vs Player 1 (548)
+Player 1 (439) vs Player 0 (4203)
+Player 2 (211) vs Player 0 (4168)
+This was round# 76
+Player 0 (4210) vs Player 2 (169)
+Player 1 (526) vs Player 0 (4123)
+Player 2 (202) vs Player 0 (4090)
+This was round# 77
+Player 0 (4050) vs Player 2 (242)
+Player 1 (631) vs Player 0 (3945)
+Player 2 (194) vs Player 0 (3993)
+This was round# 78
+Player 0 (3955) vs Player 2 (232)
+Player 1 (585) vs Player 2 (278)
+Player 2 (333) vs Player 1 (530)
+This was round# 79
+Player 0 (4061) vs Player 1 (424)
+Player 1 (508) vs Player 0 (3977)
+Player 2 (399) vs Player 1 (442)
+This was round# 80
+Player 0 (3898) vs Player 2 (478)
+Player 1 (354) vs Player 0 (3986)
+Player 2 (383) vs Player 0 (4081)
+This was round# 81
+Player 0 (4151) vs Player 1 (284)
+Player 1 (340) vs Player 2 (327)
+Player 2 (392) vs Player 1 (275)
+This was round# 82
+Player 0 (4206) vs Player 1 (220)
+Player 1 (264) vs Player 0 (4162)
+Player 2 (340) vs Player 1 (316)
+This was round# 83
+Player 0 (4230) vs Player 2 (272)
+Player 1 (253) vs Player 0 (4293)
+Player 2 (222) vs Player 1 (303)
+This was round# 84
+Player 0 (4233) vs Player 1 (363)
+Player 1 (291) vs Player 0 (4305)
+Player 2 (178) vs Player 0 (4349)
+This was round# 85
+Player 0 (4384) vs Player 2 (143)
+Player 1 (233) vs Player 0 (4442)
+Player 2 (115) vs Player 0 (4470)
+This was round# 86
+Player 0 (4447) vs Player 2 (138)
+Player 1 (279) vs Player 0 (4401)
+Player 2 (165) vs Player 1 (252)
+This was round# 87
+Player 0 (4434) vs Player 2 (132)
+Player 1 (202) vs Player 0 (4484)
+Player 2 (106) vs Player 1 (228)
+This was round# 88
+Player 0 (4529) vs Player 1 (183)
+Player 1 (162) vs Player 2 (127)
+Player 2 (102) vs Player 0 (4554)
+This was round# 89
+Player 0 (4574) vs Player 2 (82)
+Player 1 (194) vs Player 0 (4542)
+This was round# 90
+Player 2 eliminated with balance 82
+Player 0 (4580) vs Player 1 (156)
+Player 1 (125) vs Player 0 (4611)
+This was round# 91
+Player 0 (4586) vs Player 1 (150)
+Player 1 (180) vs Player 0 (4556)
+This was round# 92
+Player 0 (4592) vs Player 1 (144)
+Player 1 (172) vs Player 0 (4564)
+This was round# 93
+Player 0 (4598) vs Player 1 (138)
+Player 1 (111) vs Player 0 (4625)
+This was round# 94
+Player 0 (4603) vs Player 1 (133)
+Player 1 (107) vs Player 0 (4629)
+This was round# 95
+Player 0 (4650) vs Player 1 (86)
+This was round# 96
+Player 1 eliminated with balance 86
+Game finished after 96 rounds
+
+C:\school\SP23\git>
